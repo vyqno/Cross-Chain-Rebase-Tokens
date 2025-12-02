@@ -174,9 +174,6 @@ depth = 128                # Calls per invariant run
 - Invariant tests have some edge cases with the handler (4 failing tests)
 - These are test framework issues, not contract vulnerabilities
 
-### Bug Bounty
-🐛 Found a bug? Please report it to: security@example.com
-
 ## Contributing
 
 This project is currently in development. Contributions, issues, and feature requests are welcome!
